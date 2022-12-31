@@ -123,3 +123,18 @@ end
 
 
 end
+xixianzuaddr = ydgypy + 0
+SpiritsStates = {}--先祖轨迹
+forseaio(1,12,SpiritsStates,xixianzuaddr,"64","-32",4)
+
+function SpiritsEnd()--秒先祖
+  for i = 1, 12 do
+    SpiritsStates[i].value = 4
+  end
+  gg.setValues(SpiritsStates)
+  gg.sleep(650)
+  for i = 1, 12 do
+    SpiritsStates[i].value = 3
+  end
+  gg.setValues(SpiritsStates)
+end
