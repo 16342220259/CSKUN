@@ -51,7 +51,7 @@ DF={
  sxdz ,
  yanhuadz ,
  ydxzaddr,
- yjxzaddra, 
+ xztab, 
 }
    AF = { 
       'sddz', 
@@ -104,7 +104,7 @@ DF={
          'sxdz',
          'yanhuadz',
          'ydxzaddr',
-         'yjxzaddra'
+         'xzta'
 }       
 for i=1,#DF do gouSZ=string.format("%08X",DF[i]) print("        "..AF[i].." = ",gouSZ) end
 
