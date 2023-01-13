@@ -112,6 +112,6 @@ end
 
 xfxf()
 function lpp()
-print(xfxf)
+print(xfxf())
 end
 lpp()
