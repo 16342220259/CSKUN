@@ -49,7 +49,7 @@ zhaf = rwdz - 0x22F8CC--炸房
 BBMO=rwdz - 0x84--背背
 sxdz = rwdz - 0x22DE98--房间刷新
 xhdh = rwdz - 0x25C54C--小黑点火x
-yjxzaddra=rwdz - 0x614CC--615BC--原地先祖  :skykid 偏移-8
+yjxzaddra=rwdz - 0x6180C--615BC--原地先祖  :skykid 偏移-8
 yjxzaddrb=yjxzaddra + 0x2F10--原地先祖b
 kczblpy =  sddz+0x01BB0378
  kczblpy2 =  sddz+0x01BB4598
