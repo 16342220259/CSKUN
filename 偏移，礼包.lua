@@ -9,7 +9,7 @@ rw2=qi(rw1,0x8b918)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x1dc
 rwdz=rw4+0x10
---gg.addListItems({{address=rwaddr,flags=4,name='rwdz'}})
+--
 ------------------------------
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
@@ -59,51 +59,53 @@ kczblpy =  sddz+0x01BB0378
  kczblpy6 =  sddz+0x01B59C6C
  kczblpy7 =  sddz+0x01B6E70C
 
-qygdz = rwdz+0x17257413
- dzsjdz = rwdz+0x1788A190
-  erjdz = rwdz+0x1737A8D0
-   goupa = rwdz+0x173C6260
-    huaxing = rwdz+0x1754E358
-     jingtou = rwdz+0x17A143C0
-      xianzuguang = rwdz+0x177EE4F8
-       
-        
-         mrrw =  sddz+0x0022804C
-            xhdz =  sddz+0x02130794
-             Lonsd =  sddz+0x0107C1C0
-              Longj =  sddz+0x0107C240
-               xigb =  sddz+0x01F7BB50
-                luzhikg =  sddz+0x02130788
-                 yjqfpy =  sddz+0x01BB66A8
-                  daol =  sddz+0x0048CF70
-                   kczblpy =  sddz+0x01Be8cbb
-                    kczblpy2 =  sddz+0x01Be6bab
-                     kczblpy3 =  sddz+0x01BC1288
-                      kczblpy4 =  sddz+0x01BC75B8
-                       kczblpy5 =  sddz+0x01BC3398
-                        kczblpy6 =  sddz+0x01BB0378
-                         kczblpy7 =  sddz+0x01BC95F8
-                          zdjl =  sddz+0x0045F844
-                           xhdh = rwdz-0x0025C54C
-                            ZYchun = rwdz+0x0000530c
-                             dxbaddr = rwdz-0x00002DD4
-                              km_dz = rwdz-0x00048074
-                               cnaddr = rwdz+0x00005250
-                                yqaddr = rwdz+0x0000525C
-                                 mfdz = rwdz+0x00011264
-                                  Address_clos = rwdz+0x0000713C
-                                   ygdz = rwdz+0x01158EEC
-                                    zspy = rwdz+0x0000344c
-                                     hyxx = rwdz-0x001F44cc
-                                      rsdz = rwdz-0x0023018c
-                                       dengjiaddr = rwdz-0x00022934
-                                        lazushuliang = rwdz+0x00009974
-                                         zhayi = rwdz+0x0000530c
-                                          zhaf = rwdz-0x0022F8CC
-                                           Character_color = rwdz+0x000CD890
-                                            BBMO = rwdz-0x00000084
-                                             sxdz = rwdz-0x00221898
-                                              yanhuadz = rwdz+0x00008888
+qygdz = rwdz+0xFFDD07B
+ dzsjdz = rwdz+0x1068F2C0
+ erjdz = rwdz+0x10123548
+ goupa = rwdz+0x10151294
+ huaxing = rwdz+0x102E5648
+ jingtou = rwdz+0x107DB76C
+ xianzuguang = rwdz+0x10596F38
+ csaddr =  sddz+0x16107A8
+ dtaddr =  sddz+0x22ECF50
+ mrrw =  sddz+0x229F2C
+ ydgypy =  sddz+0x1B4CA6C
+ xjdiaoxiang =  sddz+0x1B4D89C
+ xhdz =  sddz+0x21E7704
+ Lonsd =  sddz+0x107C1C0
+ Longj =  sddz+0x107C240
+ xigb =  sddz+0x1F7BB50
+ luzhikg =  sddz+0x21E6578
+ yjqfpy =  sddz+0x1BB66A8
+ daol =  sddz+0x48CF70
+ kczblpy =  sddz+0x1C9FB68
+ kczblpy2 =  sddz+0x1CA3D88
+ kczblpy3 =  sddz+0x1CA5E98
+ kczblpy4 =  sddz+0x1CB6718
+ kczblpy5 =  sddz+0x1CD9928
+ kczblpy6 =  sddz+0x1CC6F98
+ kczblpy7 =  sddz+0x1C2AE68
+ zdjl =  sddz+0x467BA4
+ xhdh = rwdz-0x25C54C
+ ZYchun = rwdz+0x530C
+ dxbaddr = rwdz+0x87B4
+ km_dz = rwdz-0x4EDA4
+ cnaddr = rwdz+0x5250
+ yqaddr = rwdz+0x526C
+ mfdz = rwdz+0x11384
+ Address_clos = rwdz+0x714C
+ ygdz = rwdz+0x1158EEC
+ zspy = rwdz+0x344C
+ hyxx = rwdz-0x1F44CC
+ rsdz = rwdz-0x23018C
+ dengjiaddr = rwdz-0x22934
+ lazushuliang = rwdz+0x9A94
+ zhayi = rwdz+0x530C
+ zhaf = rwdz-0x22F8CC
+ Character_color = rwdz+0x855C0
+ BBMO = rwdz-0x84
+ sxdz = rwdz-0x221898
+ yanhuadz = rwdz+0x8888
  
 goupa=so+0x557AD0
 
@@ -128,5 +130,5 @@ libao={
 
 
 
-
+gg.addListItems({{address=rwaddr,flags=4,name='rwdz'}})
 end
