@@ -105,6 +105,7 @@ qygdz = rwdz+0xFFDD07B
  Character_color = rwdz+0x855C0
  BBMO = rwdz-0x84
  sxdz = rwdz-0x221898
+ XZDZ = rwdz-0x21F34C
  yanhuadz = rwdz+0x8888
  
 goupa=so+0x557AD0
