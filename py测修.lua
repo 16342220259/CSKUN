@@ -111,3 +111,4 @@ for i=1,#DF do gouSZ=string.format("%08X",DF[i]) print("        "..AF[i].." = ",
 end
 
 xfxf()
+print(xfxf)
