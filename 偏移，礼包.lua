@@ -8,7 +8,7 @@ rw1 = sooo
 rw2=qi(rw1,0x8b918)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x1dc
-rwdz=rw4+0x10
+rwdz=rw4
 --
 ------------------------------
 qygdz = so + 0x3FB56B
@@ -130,5 +130,5 @@ libao={
 
 
 
-gg.addListItems({{address=rwaddr,flags=4,name='rwdz'}})
+
 end
