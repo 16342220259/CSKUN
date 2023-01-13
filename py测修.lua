@@ -51,7 +51,7 @@ DF={
  sxdz ,
  yanhuadz ,
  ydxzaddr,
- xzdzz, 
+ YJXZ, 
 }
    AF = { 
       'sddz', 
