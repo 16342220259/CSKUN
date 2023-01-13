@@ -50,7 +50,8 @@ function PYXF()
         kczblpy6 ,
         kczblpy7 ,
         rw4,
-        goupa
+        goupa,
+        XZDZ,
     }
 
     csfpymz={
@@ -104,7 +105,8 @@ function PYXF()
         'kczblpy6',
         'kczblpy7',
         'rw4',
-        'goupa'
+        'goupa',
+        'XZDZ'
     -------------------------
 }
 
