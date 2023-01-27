@@ -110,8 +110,12 @@ qygdz = rwdz+0xFFDD07B
  
 goupa=so+0x557AD0
 
-
+JJX={
+{'AP01'},{'AP02'},{'AP03'},
+  {'AP04'},{'AP05'},{'AP06'},{'AP07'},{'AP08'}}
+  
 libao={
+
   {'SNC00'},{'SNC01'},{'SNC03'},{'SNC05'},
   {'SNC06'},{'SNC07'},{'SNC08'},{'SNC09'},
   {'SNC13'},{'SNC14'},{'SNC15'},{'SNC17'},
