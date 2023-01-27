@@ -25,7 +25,7 @@ Longj=sddz+0x107C240--龙攻击x
 xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
-zdlz=sddz+0x467ba4 --自动购买开关
+zdlz=sddz+0x473714 --自动购买开关
 zdlz1=zdlz+4
 ------------------------------
 lzjs=rwdz+0x9ad0 --1066C-- -2015F0-季节蜡烛
@@ -127,7 +127,8 @@ libao={
   {'SNC60'},{'SNC61'},{'SNC62'},{'SNC63'},
   {'SNC64'},{'SNC65'},{'SNC66'},{'SNC67'},
   {'SNC68'},{'SNC73'},{'SNC74'},{'SNC75'},
-  {'SNC76'},{'SNC77'},{'SNC79'}}
+  {'SNC76'},{'SNC77'},{'SNC79'},{'SNC80'},
+  {'SNC81'}}
 
 
 
