@@ -31,11 +31,12 @@ DF={
  kczblpy7 ,
  zdjl ,
  xhdh ,
- ZYchun ,
+ 
  dxbaddr ,
- km_dz ,
+
  cnaddr ,
  yqaddr ,
+ ZYchun,
  mfdz ,
  Address_clos ,
  ygdz ,
@@ -50,9 +51,16 @@ DF={
  BBMO ,
  sxdz ,
  yanhuadz ,
- ydxzaddr,
+ hysl,
+ hyid,
+ name,
  XZDZ, 
- fabao,
+ ydgyj,
+ ydxj,
+ ydslz,
+ BZDZ,
+ shouhuo,
+ sllx
 }
    AF = { 
       'sddz', 
@@ -85,11 +93,12 @@ DF={
          'kczblpy7',
          'zdjl',
          'xhdh',
-         'ZYchun',
+        
          'dxbaddr',
-         'km_dz',
+
          'cnaddr',
          'yqaddr',
+         'ZYchun',
          'mfdz',
          'Address_clos',
          'ygdz',
@@ -105,8 +114,16 @@ DF={
          'sxdz',
          'yanhuadz',
          'ydxzaddr',
-         'XZDZ',
-         'fabao'
+         'hysl',
+          'hyid',
+          'name',
+          'XZDZ', 
+          'ydgyj',
+          'ydxj',
+          'ydslz',
+          'BZDZ',
+          'shouhuo',
+          'sllx'
 }       
 for i=1,#DF do gouSZ=string.format("%08X",DF[i]) print("        "..AF[i].." = ",gouSZ) end
 
