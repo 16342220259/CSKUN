@@ -3,19 +3,19 @@ function PY0()
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x15AB000 --cd
-sddz=qi(soo,0x13780)+0x1C4 
+sddz=qi(soo,0x137d8)+0x1C4 
 rw1 = sooo
 rw2=qi(rw1,0x8d4c8)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x1ec
+rw4=qi(rw3,0)+0x1fc
 rwdz=rw4
 --
 ------------------------------
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
 ------------------------------
-dtaddr    = sddz + 0x2294010--地图
-csaddr    = sddz + 0x15a0918--1,065,353,216;1,953,384,757::30(--传送
+dtaddr    = sddz + 0x22956e0--地图
+csaddr    = sddz + 0x15a1fd8--1,065,353,216;1,953,384,757::30(--传送
 mrrw     =  sddz + 0x1FD4F4--原地任务
 ydgypy= sddz + 0x1adeabc--原地光翼:l_CandleSpace_0
 xjdiaoxiang= ydgypy + 0xE28--献祭
