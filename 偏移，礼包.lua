@@ -5,9 +5,9 @@ sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb
 soo=so+0x15B1000 --cd
 sddz=qi(soo,0x137d8)+0x1C4 
 rw1 = sooo
-rw2=qi(rw1,0x8c588)+0x10
+rw2=qi(rw1,0x8d4a8)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x1ec
+rw4=qi(rw3,0)+0x20c
 rwdz=rw4
 --
 ------------------------------
