@@ -7,7 +7,7 @@ sddz=qi(soo,0x13c48)+0x1C4
 rw1 = sooo
 rw2=qi(rw1,0x8d4b8)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x1e8 + 4
+rw4=qi(rw3,0)+0x1b0 + 4
 rwdz=rw4
 --
 ------------------------------
