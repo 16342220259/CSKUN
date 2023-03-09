@@ -3,7 +3,7 @@ function PY0()
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x15cb000 --cd
-sddz=qi(soo,0x13c48)+0x1C4 
+sddz=qi(soo,0x13c48)+0x1C8 
 rw1 = sooo
 rw2=qi(rw1,0x8cbc8)+0x10
 rw3=qi(rw2,0)+0x30
@@ -133,7 +133,7 @@ libao={
   {'SNC64'},{'SNC65'},{'SNC66'},{'SNC67'},
   {'SNC68'},{'SNC73'},{'SNC74'},{'SNC75'},
   {'SNC76'},{'SNC77'},{'SNC79'},{'SNC80'},
-  {'SNC81'},{'SNC82'},,{'SNC83'}}
+  {'SNC81'},{'SNC82'},{'SNC83'}}
 
 
 
