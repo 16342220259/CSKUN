@@ -25,10 +25,10 @@ Longj=sddz+0x107C240--龙攻击x
 xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
-zdlz=sddz+0x486c70--自动购买开关
+zdlz=sddz+0x486d00--自动购买开关
 zdlz1=zdlz+4
 ------------------------------
-lzjs=rwdz+0x9be0 - 0x10 --1066C-- -2015F0-季节蜡烛
+lzjs=rwdz+0x9be0  --1066C-- -2015F0-季节蜡烛
 cnaddr    = rwdz + 0x5B9C--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
