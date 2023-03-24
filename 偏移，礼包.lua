@@ -14,8 +14,8 @@ rwdz=rw4
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
 ------------------------------
-dtaddr    = sddz + 0x21e703c --地图
-csaddr    = sddz + 0x15f94a4 --1,065,353,216;1,953,384,757::30(--传送
+dtaddr    = sddz + 0x21e803c  --地图
+csaddr    = sddz + 0x15fa4c4 --1,065,353,216;1,953,384,757::30(--传送
 mrrw     =  sddz + 0x1FD4F4--原地任务
 ydgypy= sddz + 0x1b45de8--原地光翼:l_CandleSpace_0
 xjdiaoxiang= ydgypy + 0xE28--献祭
@@ -25,10 +25,10 @@ Longj=sddz+0x107C240--龙攻击x
 xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
-zdlz=sddz+0x486d00--自动购买开关
+zdlz=sddz+0x487d00--自动购买开关
 zdlz1=zdlz+4
 ------------------------------
-lzjs=rwdz+0x9be0  --1066C-- -2015F0-季节蜡烛
+lzjs=rwdz+0x9ce0  --1066C-- -2015F0-季节蜡烛
 cnaddr    = rwdz + 0x5B9C--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
