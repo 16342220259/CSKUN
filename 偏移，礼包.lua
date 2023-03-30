@@ -5,9 +5,9 @@ sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb
 soo=so+0x1607000 --cd
 sddz=qi(soo,0x13ec8)+0x1C8 
 rw1 = sooo
-rw2=qi(rw1,0x8d668)+0x10
+rw2=qi(rw1,0x8f028)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x1fc
+rw4=qi(rw3,0)+0x20c
 rwdz=rw4
 --
 ------------------------------
@@ -28,7 +28,7 @@ kuipkg=sddz + 0x20C47A0--窥屏开关
 zdlz=sddz+0x487d00+0x10--自动购买开关
 zdlz1=zdlz+4
 ------------------------------
-lzjs=rwdz+0x9ce0  --1066C-- -2015F0-季节蜡烛
+lzjs=rwdz+0x9cf0  --1066C-- -2015F0-季节蜡烛
 cnaddr    = rwdz + 0x5B9C--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
