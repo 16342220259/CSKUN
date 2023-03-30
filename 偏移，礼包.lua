@@ -14,8 +14,8 @@ rwdz=rw4
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
 ------------------------------
-dtaddr    = sddz + 0x21e803c  --地图
-csaddr    = sddz + 0x15fa4c4 --1,065,353,216;1,953,384,757::30(--传送
+dtaddr    = sddz + 0x21e803c+0x20  --地图
+csaddr    = sddz + 0x15fa4c4 +0x20 --1,065,353,216;1,953,384,757::30(--传送
 mrrw     =  sddz + 0x1FD4F4--原地任务
 ydgypy= sddz + 0x1b45de8--原地光翼:l_CandleSpace_0
 xjdiaoxiang= ydgypy + 0xE28--献祭
