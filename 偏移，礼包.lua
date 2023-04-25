@@ -3,7 +3,7 @@ function PY0()
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x1685000 --cd
-sddz=qi(soo,0x13ED0)+0x1C8 
+sddz=qi(soo,0x14a58)+0x1C8 
 rw1 = sooo
 rw2=qi(rw1,0x8fb68)+0x10
 rw3=qi(rw2,0)+0x30
