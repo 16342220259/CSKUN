@@ -88,7 +88,6 @@ qygdz = rwdz+0xFFDD07B
  kczblpy5 =  sddz+0x1CD9928
  kczblpy6 =  sddz+0x1CC6F98
  kczblpy7 =  sddz+0x1C2AE68
- zdjl =  sddz+0x467BA4
  xhdh = rwdz-0x25C54C
  ZYchun = rwdz+0x530C
  dxbaddr = rwdz+0x87B4
