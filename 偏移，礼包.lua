@@ -4,11 +4,11 @@ function PY0()
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x17A5000 --cd
-sddz=qi(soo,0x155f0)+0x1e4 
+sddz=qi(soo,0x15810)+0x1D4 
 rw1 = sooo
-rw2=qi(rw1,0x912d8)+0x10
+rw2=qi(rw1,0x921C8)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x24c
+rw4=qi(rw3,0)+0x26c
 rwdz=rw4           -----3057Q没有就3000-4000Q111111111111
 --
 -----------------------------
