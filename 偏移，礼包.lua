@@ -1,8 +1,5 @@
-
-
-
 function PY0()
-
+ 
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x17b9000 --cd
@@ -12,7 +9,7 @@ rw2=qi(rw1,0x934a8)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x26c
 rwdz=rw4         -----3057Q没有就3000-4000Q111111111111
---
+
 -----------------------------
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
