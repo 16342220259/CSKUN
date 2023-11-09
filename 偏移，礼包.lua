@@ -2,12 +2,12 @@ function PY0()
  
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
-soo=so+0x1817000 --cd
-sddz=qi(soo,0x158B0)+0x1D4 
+soo=so+0x1868000 --cd
+sddz=qi(soo,0x15df0)+0x214 
 rw1 = sooo
-rw2=qi(rw1,0x95508)+0x10
+rw2=qi(rw1,0x95598)+0x10
 rw3=qi(rw2,0)+0x30
-rw4=qi(rw3,0)+0x26c
+rw4=qi(rw3,0)+0x28c
 rwdz=rw4         -----3057Q没有就3000-4000Q111111111111
   
 -----------------------------
@@ -27,10 +27,10 @@ Longj=sddz+0x107C240--龙攻击x
 xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
-zdlz=sddz+0x42AB60-- 自动购买开关
+zdlz=sddz+0x4a6b70-- 自动购买开关
 zdlz1=zdlz+4
 ------------------------------
-lzjs=rwdz+0x9F24 --1066C-- -2015F0   -季节蜡烛
+lzjs=rwdz+0xa1d4 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x5B9C--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
