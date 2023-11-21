@@ -70,7 +70,7 @@ qygdz = rwdz+0xFFDD07B
  xianzuguang = rwdz+0x10596F38
 
  
- mrrw =  sddz+0x229F2C
+ 
  
  xjdiaoxiang =  sddz+0x1B4D89C
  xhdz =  sddz+0x21E7704
