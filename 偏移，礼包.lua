@@ -30,7 +30,7 @@ kuipkg=sddz + 0x20C47A0--窥屏开关
 zdlz=sddz+0x4a86b0-- 自动购买开关
 zdlz1=zdlz+4
 ------------------------------
-lzjs=rwdz+0xa1e8 --1066C-- -2015F0   -季节蜡烛
+lzjs=rwdz+0xa268 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x53e0--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
