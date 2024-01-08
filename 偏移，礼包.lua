@@ -4,8 +4,8 @@ function PY0()
 pso=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 psoo=so+0x7c4000 --cd
-so = psoo
- soo = pso
+so = psoo +0x0
+soo = pso +0x0
 
 sddz=qi(soo,0x16BA8)+0x23C
 rw1 = sooo
