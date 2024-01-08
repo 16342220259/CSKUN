@@ -1,4 +1,5 @@
 function PY0()
+
  
 so=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
