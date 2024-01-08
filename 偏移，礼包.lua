@@ -1,7 +1,7 @@
 function PY0()
 pso=gg.getRangesList('libBootloader.so')[1].start  --xa 
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
-psoo=pso+0x7c4000 --cd
+psoo=pso+0x13dc000 --cd
 so = psoo +0
 soo = pso +0
 
