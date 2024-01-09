@@ -70,12 +70,12 @@ qygdz = rwdz+0xFFDD07B
  goupa = rwdz+0x10151294
  huaxing = rwdz+0x102E5648
  jingtou = rwdz+0x107DB76C
- xianzuguang = rwdz+0x10596F38
+ 
 
  
  
  
- xjdiaoxiang =  sddz+0x1B4D89C
+ 
  xhdz =  sddz+0x21E7704
  Lonsd =  sddz+0x107C1C0
  Longj =  sddz+0x107C240
