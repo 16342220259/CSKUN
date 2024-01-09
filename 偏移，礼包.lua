@@ -96,7 +96,7 @@ qygdz = rwdz+0xFFDD07B
  km_dz = rwdz-0x4EDA4
  
  yqaddr = rwdz+0x526C
- mfdz = rwdz+0x11384
+ 
  Address_clos = rwdz+0x714C
  ygdz = rwdz+0x1158EEC
  zspy = rwdz+0x344C
