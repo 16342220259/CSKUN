@@ -6,7 +6,7 @@ soo=so+0x1422000 --cd 0x7d6000  0x7ce000  0x7cd000
 -- so = psoo + 0           
 -- soo = pso + 0             
 
-sddz=qi(soo,0x16ff0)+0x23C
+sddz=qi(soo,0x364C48)+0xC8
 rw1 = sooo
 rw2=qi(rw1,0x977c0)+0x10
 rw3=qi(rw2,0)+0x30
