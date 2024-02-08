@@ -6,9 +6,9 @@ soo=so+0x13de000 --cd
 -- so = psoo + 0   
 -- soo = pso + 0     
 
-sddz=qi(soo,0x16ca8)+0x23C
+sddz=qi(soo,0x16ff0)+0x23C
 rw1 = sooo
-rw2=qi(rw1,0x96c50)+0x10
+rw2=qi(rw1,0x977c0)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x29c
 rwdz=rw4         -----3057Q没有就3000-4000Q111111111111
