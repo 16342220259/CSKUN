@@ -3,8 +3,8 @@ function PY0()
 so=gg.getRangesList('libBootloader.so')[2].start-------xa   
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 soo=so+0x1422000 --cd 0x7d6000  0x7ce000  0x7cd000  
--- so = psoo + 0   
--- soo = pso + 0     
+-- so = psoo + 0           
+-- soo = pso + 0             
 
 sddz=qi(soo,0x16ff0)+0x23C
 rw1 = sooo
@@ -149,7 +149,7 @@ libao={
 
 libao1={
 
-  {'NC1000'},{'NC1001'},{'NC1002'},{'NC1003'}
+  {'NC1000'}
   }
 
 
