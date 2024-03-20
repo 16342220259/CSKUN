@@ -18,8 +18,8 @@ rwdz=rw4         -----3057Q没有就3000-4000Q
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
 ------------------------------
-dtaddr    = sddz + 0x2f96b6c  --地图
-csaddr    = sddz + 0x18c4644 --1,065,353,216;1,953,384,757::30(--传送
+dtaddr    = sddz + 0x326c6ec  --地图
+csaddr    = sddz + 0x1a519c4 --1,065,353,216;1,953,384,757::30(--传送
 mrrw     =  sddz + 0x1FD4F4--原地任务
 ydgypy= sddz + 0x24446E8--    原地光翼:l_CandleSpace_0
  ydgyhqa = ydgypy + 0x58
@@ -31,7 +31,8 @@ Longj=sddz+0x107C240--龙攻击x
 xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
-zdlz=sddz+0x4c01d0-- 自动购买开关
+
+zdlz=sddz+0x4c7780-- 自动购买开关
 zdlz1=zdlz+4
 ------------------------------
 lzjs=rwdz+0xa268 --1066C-- -2015F0   -季节蜡烛
