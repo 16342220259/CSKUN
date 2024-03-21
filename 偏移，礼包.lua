@@ -37,7 +37,7 @@ zdlz=sddz+0x4c7780-- 自动购买开关改 16777472
 
 zdlz1=zdlz+4  --改 1
 zdlz2=zdlz-8  --改 8
-zdlz3=zdlz-C  --改 8
+zdlz3=zdlz-0xC  --改 8
 
 ------------------------------
 lzjs=rwdz+0xa238 --1066C-- -2015F0   -季节蜡烛
