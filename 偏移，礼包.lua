@@ -32,8 +32,13 @@ xigb = sddz + 0x1F7BB50--吸光标
 luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
 
-zdlz=sddz+0x4c7780-- 自动购买开关
-zdlz1=zdlz+4
+
+zdlz=sddz+0x4c7780-- 自动购买开关改 16777472
+
+zdlz1=zdlz+4  --改 1
+zdlz2=zdlz-8  --改 8
+zdlz3=zdlz-C  --改 8
+
 ------------------------------
 lzjs=rwdz+0xa238 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x5450--充能
