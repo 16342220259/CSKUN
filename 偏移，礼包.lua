@@ -78,25 +78,6 @@ qygdz = rwdz+0xFFDD07B
  huaxing = rwdz+0x102E5648
  jingtou = rwdz+0x107DB76C
  
-
- 
- 
- 
- 
- xhdz =  sddz+0x21E7704
- Lonsd =  sddz+0x107C1C0
- Longj =  sddz+0x107C240
- xigb =  sddz+0x1F7BB50
- luzhikg =  sddz+0x21E6578
- yjqfpy =  sddz+0x1BB66A8
- daol =  sddz+0x48CF70
- kczblpy =  sddz+0x1C9FB68
- kczblpy2 =  sddz+0x1CA3D88
- kczblpy3 =  sddz+0x1CA5E98
- kczblpy4 =  sddz+0x1CB6718
- kczblpy5 =  sddz+0x1CD9928
- kczblpy6 =  sddz+0x1CC6F98
- kczblpy7 =  sddz+0x1C2AE68
  xhdh = rwdz-0x25C54C
  ZYchun = rwdz+0x530C
  dxbaddr = rwdz+0x87B4
