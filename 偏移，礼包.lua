@@ -33,7 +33,7 @@ luzhikg= rwdz - 0x41A75C--录制蜡烛
 kuipkg=sddz + 0x20C47A0--窥屏开关
 
 
-zdlz=sddz+0x4cfb80-- 自动购买开关改 16777472
+zdlz=sddz+0x4E3B20-- 自动购买开关改 16777472
 
 zdlz1=zdlz+4  --改 1
 zdlz2=zdlz-8  --改 8
