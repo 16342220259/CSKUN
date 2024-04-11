@@ -35,7 +35,8 @@ kuipkg=sddz + 0x20C47A0--窥屏开关
 
 zdlz=sddz+0x4E3B20-- 自动购买开关改 16777472
 
-zdlz1=zdlz+4  --改 1
+zdlz0 = zdlz + 0 --改1  
+zdlz1=zdlz+4  --改 1  (0 1 替换zdlz)
 zdlz2=zdlz-8  --改 8
 zdlz3=zdlz-0xC  --改 8
 
