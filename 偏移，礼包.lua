@@ -18,8 +18,8 @@ rwdz=rw4         -----3057Q没有就3000-4000Q
 qygdz = so + 0x3FB56B
 wxjladdr = so + 0x1210E12
 ------------------------------
-dtaddr    = sddz + 0x326c6ec  --地图
-csaddr    = sddz + 0x1a519c4 --1,065,353,216;1,953,384,757::30(--传送
+dtaddr    = sddz + 0x33f549c  --地图
+csaddr    = sddz + 0x1bb4d64 --1,065,353,216;1,953,384,757::30(--传送
 mrrw     =  sddz + 0x1FD4F4--原地任务
 ydgypy= sddz + 0x2668b58--    原地光翼:l_CandleSpace_0
  ydgyhqa = ydgypy + 0x58
