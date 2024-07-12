@@ -41,7 +41,7 @@ zdlz2=zdlz-8  --改 8
 zdlz3=zdlz-0xC  --改 8
 
 ------------------------------
-lzjs=rwdz+0xa24c --1066C-- -2015F0   -季节蜡烛
+lzjs=rwdz+0xA2E8 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x5450--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
