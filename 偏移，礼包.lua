@@ -15,7 +15,7 @@ lzjs=lzjs2
 rw2=qi(rw1,0xad668)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x29c
-rwdz=rw4         -----3057Q没有就3000-4000Q   
+rwdz=sddz+0x9cb11a4    -----3571Q没有就3000-4000Q   
   
 -----------------------------
 qygdz = so + 0x3FB56B
