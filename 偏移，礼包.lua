@@ -7,6 +7,7 @@ soo=so+0x1422000 --cd 0x7d6000  0x7ce000  0x7cd000
 -- soo = pso + 0             
 
 
+
 rw1 = sooo
 sddz=qi(rw1,0x405DF8)+0xD8
 lzjs1=qi(rw1,0x12c370)+0x10
