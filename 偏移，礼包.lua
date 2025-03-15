@@ -10,10 +10,10 @@ soo=so+0x1422000 --cd 0x7d6000  0x7ce000  0x7cd000
 
 rw1 = sooo
 sddz=qi(rw1,0x405DF8)+0xD8
-lzjs1=qi(rw1,0x12c370)+0x10
-lzjs2=qi(lzjs1,0)+0x98
-lzjs3=qi(lzjs2,0)+0x1d4
-lzjs=lzjs2
+lzjsa=qi(rw1,0x12c370)+0x10
+lzjsb=qi(lzjsa,0)+0x98
+lzjsc=qi(lzjsb,0)+0x1d4
+lzjs=lzjsc
 rw2=qi(rw1,0xad668)+0x10
 rw3=qi(rw2,0)+0x30
 rw4=qi(rw3,0)+0x29c
@@ -147,7 +147,7 @@ libao={
   {'SNC133'}, {'SNC134'},{'SNC136'},{'SNC137'},
   {'SNC138'},{'SNC139'}，{'SNC139'},{'SNC140'},
 {'SNC141'},{'SNC142'},{'SNC143'},{'SNC144'},
-{'BSNC19'},{'BSNC14'},{'BSNC18'},
+{'BSNC19'},{'BSNC14'},{'BSNC18'}
  
  
  
