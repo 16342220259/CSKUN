@@ -45,6 +45,7 @@ zdlz3=zdlz-0xC  --改 8
 lzjsa=qi(rw1,0x12c370)+0x10
 lzjsb=qi(lzjsa,0)+0x98
 lzjsc=qi(lzjsb,0)+0x1D4
+lzjs=lzjsc
 
 -------rwdz+0xA2E8 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x5450--充能
