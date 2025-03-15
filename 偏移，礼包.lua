@@ -8,8 +8,6 @@ soo=so+0x1422000 --cd 0x7d6000  0x7ce000  0x7cd000
 
 rw1 = sooo
 sddz=qi(rw1,0x405DF8)+0xD8
-lzjs=qi(rw1,0x12370)
-
 
 rw2=qi(rw1,0xad668)+0x10
 rw3=qi(rw2,0)+0x30
@@ -43,7 +41,7 @@ zdlz2=zdlz-8  --改 8
 zdlz3=zdlz-0xC  --改 8
 
 ------------------------------
-----lzjs=rwdz+0xA2E8 --1066C-- -2015F0   -季节蜡烛
+lzjs=rwdz+0xA2E8 --1066C-- -2015F0   -季节蜡烛
 cnaddr    = rwdz + 0x5450--充能
 jltcdz= rwdz-0x887878-8
 yqaddr    = rwdz + 0x5BAC--氧气
